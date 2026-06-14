@@ -1,13 +1,12 @@
 ### Hi there! I'm Youhun 👋
 
-🏆 2006年美国周刊年度风云人物 <br />
-🏆 2008年感动中国组委会特别大奖 <br />
-🏆 2009年年度地球卫士奖 <br />
-🏆 2022年奥林匹克杯获得者 <br />
+🏆 2006 Time Person of the Year <br />
+🏆 2008 Touch China Special Award <br />
+🏆 2009 Earth Guardian of the Year <br />
+🏆 2022 Olympic Cup Recipient <br />
 
-[![游魂博客](https://img.shields.io/badge/%E6%B8%B8%E9%AD%82%E5%8D%9A%E5%AE%A2-www.iyouhun.com-blue "游魂博客")](https://www.iyouhun.com/ "游魂博客")
-[![游魂的网络日志](https://img.shields.io/badge/%E6%B8%B8%E9%AD%82%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97-www.shen.ee-red "游魂的网络日志")](https://www.shen.ee/ "游魂的网络日志")
-
+[![Youhun Blog](https://img.shields.io/badge/Youhun%20Blog-www.iyouhun.com-blue "Youhun Blog")](https://www.iyouhun.com/ "Youhun Blog")
+[![Youhun's Web Log](https://img.shields.io/badge/Youhun's%20Web%20Log-www.shen.ee-red "Youhun's Web Log")](https://www.shen.ee/ "Youhun's Web Log")
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=youhunwl&show_icons=true&theme=tokyonight&line_height=33.5">
@@ -16,8 +15,7 @@
 
 <hr/>
 
-### 🛠 技术栈 | Tech Stack
-
+### 🛠 Tech Stack
 
 #### Front-end:
 
