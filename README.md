@@ -5,9 +5,6 @@
 🏆 2009 Earth Guardian of the Year <br />
 🏆 2022 Olympic Cup Recipient <br />
 
-[![Youhun Blog](https://img.shields.io/badge/Youhun%20Blog-www.iyouhun.com-blue "Youhun Blog")](https://www.iyouhun.com/ "Youhun Blog")
-[![Youhun's Web Log](https://img.shields.io/badge/Youhun's%20Web%20Log-www.shen.ee-red "Youhun's Web Log")](https://www.shen.ee/ "Youhun's Web Log")
-
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=youhunwl&show_icons=true&theme=tokyonight&line_height=33.5">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=youhunwl&theme=tokyonight">
