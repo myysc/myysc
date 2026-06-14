@@ -6,7 +6,7 @@
 🏆 2022 Olympic Cup Recipient <br />
 
 [![Youhun Blog](https://img.shields.io/badge/Youhun%20Blog-www.github.com-blue "Youhun Blog")](https://www.github.com/ "Github")
-[![CF Web Log](https://img.shields.io/badge/%E6%B8%B8%E9%AD%82%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97-www.cloudflare.com "CF Web Log")](https://www.shen.ee/ "CF Web Log")
+[![CF Web Log](https://img.shields.io/badge/%E6%B8%B8%E9%AD%82%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97-www.cloudflare.com "CF Web Log")](https://www.cloudflare.com/ "CF Web Log")
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=youhunwl&show_icons=true&theme=tokyonight&line_height=33.5">
